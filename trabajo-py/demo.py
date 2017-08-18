@@ -2,7 +2,8 @@
 Paquete de prueba
 ===================
 Comentarios
-
+#### para crear la documentacion se usa sphinx-quickstart dentro de la carpeta docs de
+# la carpeta raiz del proyecto
 """
 
 import math
